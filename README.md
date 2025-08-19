@@ -22,7 +22,3 @@ You can also copy the reply with one click.
 2. Enter your question or code prompt  
 3. Choose **General** or **Code**  
 4. Copy the answer if needed
-
----
-
-MIT License
